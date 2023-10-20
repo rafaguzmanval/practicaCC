@@ -1,14 +1,18 @@
 # Photopop
 Repositorio de prácticas de la asignatura de Cloud Computing del MII de la UGR.
 
-Hitos:
+## Descripción
 
-[Hito 0 Configuración de Github](docs/hito0/hito0.md).\
-[Hito 1]()\
-[Hito 2]()\
-[Hito 3]()\
-[Hito 4]()\
-[Hito 5]()
+Photopop es una red social 
+
+## Hitos
+
+### :round_pushpin: [Hito 0 Configuración de Github](docs/hito0/hito0.md)
+### :round_pushpin: [Hito 1]()
+### :round_pushpin: [Hito 2]()
+### :round_pushpin: [Hito 3]()
+### :round_pushpin: [Hito 4]()
+### :round_pushpin: [Hito 5]()
   
 
 
