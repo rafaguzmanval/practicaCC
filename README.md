@@ -28,7 +28,7 @@ Cuándo se desarrolló este proyecto solo se llevó a cabo en un entorno local, 
 
 ### Lenguajes
 
-[![Lenguajes](https://skillicons.dev/icons?i=js,dart,py)](https://flutter.dev/)
+[![Lenguajes](https://skillicons.dev/icons?i=js,dart,py)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
 ### Frontend
 
