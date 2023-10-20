@@ -13,6 +13,7 @@ Photopop es una red social
 ### :round_pushpin: [Hito 3]()
 ### :round_pushpin: [Hito 4]()
 ### :round_pushpin: [Hito 5]()
+### :round_pushpin: [Hito 6]()
   
 
 
