@@ -36,5 +36,6 @@ Cuándo se desarrolló este proyecto solo se llevó a cabo en un entorno local, 
 ### Base de datos
 
     [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+    [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
