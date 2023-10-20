@@ -12,12 +12,18 @@ En primer lugar ejecuto el siguiente comando en la terminal \
 
 ## Configuración del nombre y correo
 
+Para que el nombre y correo aparezcan en los commits he introducido los siguientes comandos. \
+
+![configuracion nombre y correo](/docs/imgs/gitconfigs.png)
+
 ## Edición del perfil
 He completado la información que me hacia falta:
 ![edicion perfil](/docs/imgs/perfil.png)
 
 ## Factor de doble autenticación
-
+Para activar el factor de doble autenticación solo hay que ir a *Settings* y a donde pone *Passwords* en la barra lateral izquierda
+Una vez ahí se puede hacer la configuración y aparecerá un código QR que deberá ser leído con una aplicación de autenticación de 2FA\
+![factor configuracion](/docs/imgs/twofactor.png)
 
 
 
