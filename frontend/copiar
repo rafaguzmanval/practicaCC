@@ -1,0 +1,3 @@
+#!/bin/bash
+flutter build web
+sudo cp -rf build/web/* ~/TFG/backendTFG/public/

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Sala virtual</title>
+    <meta charset="utf-8">
+
+
+</head>
+<body>
+
+    <script type="text/javascript" src="./jquery.js"></script>
+
+    <script src="node_modules/socket.io/client-dist/socket.io.js"></script>
+
+
+    <script>
+    escena = null;
+    cargado = false;
+    modelosMultijugador=null;
+    local = "local";
+    </script>
+    
+    <script type="module" src="MyScene.js"></script>    
+    <style>
+        body{
+            margin: 0;
+            overflow: hidden; 
+        }
+    </style>
+
+<!-- Div which will hold the Output -->
+<div id="WebGL-output">
+</div>
+</body>
+</html>
