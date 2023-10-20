@@ -3,7 +3,7 @@ En este repositorio se almacenará el progreso de prácticas en la asignatura de
 
 Hitos:
 
-Hito 0 Configuración de Github.
+[Hito 0 Configuración de Github](docs/hito0/hito0.md).
   
 
 
