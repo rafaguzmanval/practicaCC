@@ -27,15 +27,15 @@ Cuándo se desarrolló este proyecto solo se llevó a cabo en un entorno local, 
 ## Herramientas de desarrollo
 
 ### Frontend
-    [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
+
+[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
 
 ### Backend
 
-    [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
 
 ### Base de datos
 
-    [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-    [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 
 
