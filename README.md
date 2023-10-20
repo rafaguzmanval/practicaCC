@@ -24,4 +24,17 @@ Cuándo se desarrolló este proyecto solo se llevó a cabo en un entorno local, 
 ### :round_pushpin: [Hito 6]()
   
 
+## Herramientas de desarrollo
+
+### Frontend
+    [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
+
+### Backend
+
+    [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+
+### Base de datos
+
+    [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+
 
