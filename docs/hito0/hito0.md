@@ -6,7 +6,7 @@ Teniendo instalado previamente git en mi equipo, voy a realizar los pasos que ne
 
 Para generar el par de claves he seguido el [tutorial de Github](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) \
 En primer lugar ejecuto el siguiente comando en la terminal \
-![generacion de la clave](docs/imgs/generandoclave.png)
+![generacion de la clave](/docs/imgs/generandoclave.png)
 
 
 
