@@ -26,6 +26,10 @@ Cuándo se desarrolló este proyecto solo se llevó a cabo en un entorno local, 
 
 ## Herramientas de desarrollo
 
+### Lenguajes
+
+[![Lenguajes](https://skillicons.dev/icons?i=js,dart,py)](https://flutter.dev/)
+
 ### Frontend
 
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
@@ -37,5 +41,9 @@ Cuándo se desarrolló este proyecto solo se llevó a cabo en un entorno local, 
 ### Base de datos
 
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+
+### Otros
+
+[![otros](https://skillicons.dev/icons?i=linux,git,vscode)](https://www.linux.org/)
 
 
