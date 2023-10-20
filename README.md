@@ -1,5 +1,5 @@
-# Repositorio de prácticas de CC
-En este repositorio se almacenará el progreso de prácticas en la asignatura de Cloud Computing del MII de la UGR.
+# Photopop
+Repositorio de prácticas de la asignatura de Cloud Computing del MII de la UGR.
 
 Hitos:
 
