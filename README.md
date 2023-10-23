@@ -47,6 +47,6 @@ Cuándo se desarrolló este proyecto solo se llevó a cabo en un entorno local, 
 
 ### Otros
 
-[![otros](https://skillicons.dev/icons?i=linux,git,vscode)](https://www.linux.org/)
+[![otros](https://skillicons.dev/icons?i=linux,git,vscode,androidstudio)](https://www.linux.org/)
 
 

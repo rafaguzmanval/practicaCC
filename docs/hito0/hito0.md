@@ -5,18 +5,18 @@ Teniendo instalado previamente git en mi equipo, voy a realizar los pasos que ne
 ## Creación de par de claves
 
 Para generar el par de claves he seguido el [tutorial de Github](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) 
+
 En primer lugar ejecuto el siguiente comando en la terminal \
-![generacion de la clave](/docs/imgs/generandoclave.png) \
+![generacion de la clave](/docs/imgs/generandoclave.png) 
 
 Una vez que tenemos generada la clave podemos añadirla a GitHub: 
 
 ![nueva SSH](/docs/imgs/nuevaSSH.png)
 
 
-
 ## Configuración del nombre y correo
 
-Para que el nombre y correo aparezcan en los commits he introducido los siguientes comandos. \
+Para que el nombre y correo aparezcan en los commits he introducido los siguientes comandos en la terminal. 
 
 ![configuracion nombre y correo](/docs/imgs/gitconfigs.png)
 
