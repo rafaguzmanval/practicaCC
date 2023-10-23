@@ -14,6 +14,11 @@ Una vez que tenemos generada la clave podemos añadirla a GitHub:
 ![nueva SSH](/docs/imgs/nuevaSSH.png)
 
 
+Por último podemos hacer una prueba SSH para comprobar que todo funciona bien
+
+![pruebaSSH](/docs/imgs/pruebassh.png)
+
+
 ## Configuración del nombre y correo
 
 Para que el nombre y correo aparezcan en los commits he introducido los siguientes comandos en la terminal. 
