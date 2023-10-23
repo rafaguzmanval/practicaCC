@@ -12,7 +12,8 @@ Existen 2 roles principales:
 - Moderador : Se encarga de eliminar las publicaciones que han sido denunciadas
 - Usuario : Es el usuario común que usa la red social.
 
-En este proyecto se reutiliza el trabajo desarrollado en el TFG del grado de Ingeniería Informática llamado **"Diseño y desarrollo de una red social interactiva"**. \
+En este proyecto se reutiliza el trabajo desarrollado en el TFG del grado de Ingeniería Informática llamado [Diseño y desarrollo de una red social interactiva](/docs/TFG/Memoria_TFG_RAFAEL_GUZMÁN_VALVERDE%20.pdf). \
+
 Cuándo se desarrolló este proyecto solo se llevó a cabo en un entorno local, por lo que desplegarlo en la nube constituye un paso final.
 
 ## Hitos :pushpin:
