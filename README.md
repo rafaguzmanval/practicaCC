@@ -1,6 +1,8 @@
 # Photopop :iphone:
 Repositorio de prácticas de la asignatura de Cloud Computing del MII de la UGR.
 
+![logo photopop](/frontend/assets/images/imagotipo.png)
+
 ## Descripción :black_nib:
 
 Photopop es una red social donde los usuarios podrán realizar diversas actividades desde almacenar y compartir sus fotos y vídeos, chatear o incluso hacer compra-venta de segunda mano.
