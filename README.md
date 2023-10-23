@@ -1,7 +1,7 @@
 # Photopop :iphone:
 Repositorio de prácticas de la asignatura de Cloud Computing del MII de la UGR.
 
-![logo photopop](/frontend/assets/images/imagotipo.png =100x100)
+<img src="/frontend/assets/images/imagotipo.png" width="100" height="100">
 
 ## Descripción :black_nib:
 
