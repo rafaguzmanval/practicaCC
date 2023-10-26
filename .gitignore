@@ -2,3 +2,4 @@ backend/users
 backend/node_modules
 frontend/build
 frontend/ios
+backend/conf
