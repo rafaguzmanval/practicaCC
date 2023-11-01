@@ -1,0 +1,6 @@
+entidad:
+  app/frontend/lib/camara2.dart
+  app/frontend/lib/chat.dart
+  app/frontend/lib/conocer.dart
+  app/frontend/lib/salavirtual.dart
+  app/frontend/lib/home.dart

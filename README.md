@@ -1,7 +1,7 @@
 # Photopop :iphone:
 Repositorio de prácticas de la asignatura de Cloud Computing del MII de la UGR.
 
-<img src="/frontend/assets/images/imagotipo.png" width="200" height="200">
+<img src="/app/frontend/assets/images/imagotipo.png" width="200" height="200">
 
 ## Descripción :black_nib:
 
@@ -19,12 +19,12 @@ Cuándo se desarrolló este proyecto solo se llevó a cabo en un entorno local, 
 ## Hitos :pushpin:
 
 ### :round_pushpin: [Hito 0 Configuración de Github](docs/hito0/hito0.md)
-### :round_pushpin: [Hito 1]()
-### :round_pushpin: [Hito 2]()
-### :round_pushpin: [Hito 3]()
-### :round_pushpin: [Hito 4]()
-### :round_pushpin: [Hito 5]()
-### :round_pushpin: [Hito 6]()
+### :round_pushpin: [Hito 1 Concretando y planificando el proyecto](docs/hito1/hito1.md)
+### :round_pushpin: [_Hito 2_]()
+### :round_pushpin: [_Hito 3_]()
+### :round_pushpin: [_Hito 4_]()
+### :round_pushpin: [_Hito 5_]()
+### :round_pushpin: [_Hito 6_]()
   
 
 ## Herramientas de desarrollo
