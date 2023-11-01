@@ -1,5 +1,5 @@
-backend/users
-backend/node_modules
-frontend/build
-frontend/ios
-backend/conf
+app/backend/users
+app/backend/node_modules
+app/frontend/build
+app/frontend/ios
+app/backend/conf

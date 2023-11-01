@@ -1,0 +1,619 @@
+-- Merging decision tree log ---
+application
+INJECTED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:18:4-51:19
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:18:4-51:19
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:18:4-51:19
+MERGED from [:image_picker_android] /home/rafa/TFG/photopop/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:image_picker_android] /home/rafa/TFG/photopop/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:14:5-50:19
+MERGED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:14:5-50:19
+MERGED from [me.carda:androidcore:0.7.7] /home/rafa/.gradle/caches/transforms-3/9c9be3499add27cbb79a7fd2543adb58/transformed/jetified-androidcore-0.7.7/AndroidManifest.xml:9:5-16:19
+MERGED from [me.carda:androidcore:0.7.7] /home/rafa/.gradle/caches/transforms-3/9c9be3499add27cbb79a7fd2543adb58/transformed/jetified-androidcore-0.7.7/AndroidManifest.xml:9:5-16:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/rafa/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/rafa/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/rafa/.gradle/caches/transforms-3/9fc546b4b41c30406c1c6f8de93a0c6d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/rafa/.gradle/caches/transforms-3/9fc546b4b41c30406c1c6f8de93a0c6d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /home/rafa/.gradle/caches/transforms-3/6710ee2e3546b398da00e75003abfc33/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /home/rafa/.gradle/caches/transforms-3/6710ee2e3546b398da00e75003abfc33/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.5.1] /home/rafa/.gradle/caches/transforms-3/6e7e5a4af4c1efae44af94640b260dad/transformed/jetified-lifecycle-process-2.5.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.5.1] /home/rafa/.gradle/caches/transforms-3/6e7e5a4af4c1efae44af94640b260dad/transformed/jetified-lifecycle-process-2.5.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/rafa/.gradle/caches/transforms-3/34c3e571c9f2500d68296fe0b8609888/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/rafa/.gradle/caches/transforms-3/34c3e571c9f2500d68296fe0b8609888/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/rafa/.gradle/caches/transforms-3/c6290d38a27dcf8d064fa9cefcb89071/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/rafa/.gradle/caches/transforms-3/c6290d38a27dcf8d064fa9cefcb89071/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /home/rafa/.gradle/caches/transforms-3/6710ee2e3546b398da00e75003abfc33/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:19:9-33
+	android:icon
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:21:9-43
+	android:usesCleartextTraffic
+		ADDED from /home/rafa/TFG/photopop/android/app/src/debug/AndroidManifest.xml:21:18-53
+	android:name
+		INJECTED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:20:9-42
+manifest
+ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:1:1-52:12
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:1:1-52:12
+MERGED from [:flutter_webrtc] /home/rafa/TFG/photopop/build/flutter_webrtc/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_background] /home/rafa/TFG/photopop/build/flutter_background/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:camera_android] /home/rafa/TFG/photopop/build/camera_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:image_picker_android] /home/rafa/TFG/photopop/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:flutter_plugin_android_lifecycle] /home/rafa/TFG/photopop/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:integration_test] /home/rafa/TFG/photopop/build/integration_test/intermediates/merged_manifest/debug/AndroidManifest.xml:7:1-14:12
+MERGED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-52:12
+MERGED from [:path_provider_android] /home/rafa/TFG/photopop/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:video_player_android] /home/rafa/TFG/photopop/build/video_player_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:webview_flutter_android] /home/rafa/TFG/photopop/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [me.carda:androidcore:0.7.7] /home/rafa/.gradle/caches/transforms-3/9c9be3499add27cbb79a7fd2543adb58/transformed/jetified-androidcore-0.7.7/AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /home/rafa/.gradle/caches/transforms-3/dc3a900d1b2a6113518ce3efdf3a3b41/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.5.1] /home/rafa/.gradle/caches/transforms-3/ea6751acb56b0b88131e2e20244ba024/transformed/appcompat-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/rafa/.gradle/caches/transforms-3/a6bf228adcf2ade0b45c4be1ab213b75/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.1] /home/rafa/.gradle/caches/transforms-3/0f2c34a14d2099fb451b56a233bb2c17/transformed/jetified-activity-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/rafa/.gradle/caches/transforms-3/906f41b23948e23cf276f1b1ba5ed41e/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/rafa/.gradle/caches/transforms-3/bcc38bd92afe17069579c8062e504b8a/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/rafa/.gradle/caches/transforms-3/572d2a7c9eb5efde34d5fcfd36b0f0e3/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/rafa/.gradle/caches/transforms-3/246793f755122fe14a5802655438cb75/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /home/rafa/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [com.github.webrtc-sdk:android:104.5112.06] /home/rafa/.gradle/caches/transforms-3/418f15db3cdb6013fa33705f198cf01a/transformed/jetified-android-104.5112.06/AndroidManifest.xml:11:1-14:12
+MERGED from [com.github.davidliu:audioswitch:c498d866c57f1d88056d5e7e7a78d622e3b0c046] /home/rafa/.gradle/caches/transforms-3/688bcd3840a77a311943c42bbaf20e2b/transformed/jetified-audioswitch-c498d866c57f1d88056d5e7e7a78d622e3b0c046/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.test:rules:1.2.0] /home/rafa/.gradle/caches/transforms-3/9bf41b629cfc0bc1a29262a5e0c0dcd2/transformed/rules-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] /home/rafa/.gradle/caches/transforms-3/5856d04062f03ff101e4b0bdca3ed148/transformed/espresso-core-3.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:runner:1.2.0] /home/rafa/.gradle/caches/transforms-3/e1d3dce68f91f9c64fdfb367cbb7e7ce/transformed/runner-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.5] /home/rafa/.gradle/caches/transforms-3/3e3beb13dcddec35860e34de722f99cf/transformed/jetified-exoplayer-hls-2.18.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.5] /home/rafa/.gradle/caches/transforms-3/ab0511d2eaf80fb09f71623758c73931/transformed/jetified-exoplayer-dash-2.18.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.5] /home/rafa/.gradle/caches/transforms-3/3301dd464b33de561c2fee871ed028d3/transformed/jetified-exoplayer-smoothstreaming-2.18.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.5] /home/rafa/.gradle/caches/transforms-3/b8bd4bcbe7320b31658631ac6733d805/transformed/jetified-exoplayer-core-2.18.5/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.webkit:webkit:1.6.1] /home/rafa/.gradle/caches/transforms-3/d9e74fa448e158ce0221e0cf37d60f72/transformed/webkit-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.6.0] /home/rafa/.gradle/caches/transforms-3/52c9781f926af24ac4530a9702e17d3a/transformed/media-1.6.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/rafa/.gradle/caches/transforms-3/2fce982de6bcb65312b126b72c128883/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/rafa/.gradle/caches/transforms-3/eccc6adbfa12474b1575f96a882ac859/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/rafa/.gradle/caches/transforms-3/9fc546b4b41c30406c1c6f8de93a0c6d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core-ktx:1.9.0] /home/rafa/.gradle/caches/transforms-3/efb7ecd2cec4a8f801c52ab663aebcf9/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/rafa/.gradle/caches/transforms-3/045d2e69ed718df502093495707de7d0/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/rafa/.gradle/caches/transforms-3/eba3ac105ce1a200b5302334a4f79c0c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/rafa/.gradle/caches/transforms-3/86da411e3ef3e48ed679a69941c8410e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/rafa/.gradle/caches/transforms-3/d411e96186971239cc9320701a4aa95b/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] /home/rafa/.gradle/caches/transforms-3/6710ee2e3546b398da00e75003abfc33/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /home/rafa/.gradle/caches/transforms-3/147457b546756dc21ee3f405373305cf/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.5.1] /home/rafa/.gradle/caches/transforms-3/6e7e5a4af4c1efae44af94640b260dad/transformed/jetified-lifecycle-process-2.5.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/rafa/.gradle/caches/transforms-3/34c3e571c9f2500d68296fe0b8609888/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/rafa/.gradle/caches/transforms-3/9a15d0431946b4658756ca271d093b65/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:monitor:1.2.0] /home/rafa/.gradle/caches/transforms-3/d93e6cf6e85545c8757b54674db0aa5c/transformed/monitor-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.5.1] /home/rafa/.gradle/caches/transforms-3/4035dd197e5e9d829063d9feeb32bc83/transformed/jetified-lifecycle-service-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-reactivestreams:2.5.1] /home/rafa/.gradle/caches/transforms-3/e347da2be44723ab375ce23b9fe65a59/transformed/lifecycle-reactivestreams-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/rafa/.gradle/caches/transforms-3/801d2797bf7947195fd4f19c4eea4495/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/rafa/.gradle/caches/transforms-3/54c2c5e9d4878f1c71319deedb5b4639/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] /home/rafa/.gradle/caches/transforms-3/3877b37cfe4d7673cce7b93b71042767/transformed/lifecycle-livedata-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/rafa/.gradle/caches/transforms-3/a9dbf56cdd9bfea41d83101b051211a3/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /home/rafa/.gradle/caches/transforms-3/3781aa15d0ffa4c9bedd198aebfb95dc/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/rafa/.gradle/caches/transforms-3/c6290d38a27dcf8d064fa9cefcb89071/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.5] /home/rafa/.gradle/caches/transforms-3/8f7e59a440e9ee237d00a84bb541ba0b/transformed/jetified-exoplayer-datasource-2.18.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.5] /home/rafa/.gradle/caches/transforms-3/5542e2534cf53ab17f6d0aba7f126261/transformed/jetified-exoplayer-extractor-2.18.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.5] /home/rafa/.gradle/caches/transforms-3/bf4bb4001622d6fc89d42ce4f863c690/transformed/jetified-exoplayer-decoder-2.18.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.5] /home/rafa/.gradle/caches/transforms-3/8905e007b870999902574b538ee81fe7/transformed/jetified-exoplayer-database-2.18.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.5] /home/rafa/.gradle/caches/transforms-3/b30e6f8a141882bb624a31fcbb9a77cb/transformed/jetified-exoplayer-common-2.18.5/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/rafa/.gradle/caches/transforms-3/b0ed3bc1190a335fc620be73cef0fa31/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/rafa/.gradle/caches/transforms-3/33022110ab8edaeede9665dd42ecaa6e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/rafa/.gradle/caches/transforms-3/274a6366c1fa82a9cda5f98fe858df07/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/rafa/.gradle/caches/transforms-3/d554ead6601b2f9532bb7762be473019/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /home/rafa/.gradle/caches/transforms-3/b09d00fd9051a37ddc37f5b0281c440c/transformed/espresso-idling-resource-3.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/rafa/TFG/photopop/android/app/src/debug/AndroidManifest.xml:1:1-23:12
+INJECTED from /home/rafa/TFG/photopop/android/app/src/debug/AndroidManifest.xml:1:1-23:12
+INJECTED from /home/rafa/TFG/photopop/android/app/src/debug/AndroidManifest.xml:1:1-23:12
+	package
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:2:5-36
+		INJECTED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rafa/TFG/photopop/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:1:1-52:12
+		INJECTED from /home/rafa/TFG/photopop/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:1:1-52:12
+		INJECTED from /home/rafa/TFG/photopop/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-feature#android.hardware.camera
+ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:4:5-60
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:4:5-60
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:4:5-60
+	android:name
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:4:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:5:5-70
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:5:5-70
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:5:5-70
+	android:name
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:5:19-67
+uses-permission#android.permission.INTERNET
+ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:6:5-66
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:6:5-66
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:7:5-65
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:7:5-65
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:7:5-65
+MERGED from [:camera_android] /home/rafa/TFG/photopop/build/camera_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-65
+MERGED from [:camera_android] /home/rafa/TFG/photopop/build/camera_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:8:5-79
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:8:5-79
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.5] /home/rafa/.gradle/caches/transforms-3/b8bd4bcbe7320b31658631ac6733d805/transformed/jetified-exoplayer-core-2.18.5/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.5] /home/rafa/.gradle/caches/transforms-3/b8bd4bcbe7320b31658631ac6733d805/transformed/jetified-exoplayer-core-2.18.5/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.5] /home/rafa/.gradle/caches/transforms-3/b30e6f8a141882bb624a31fcbb9a77cb/transformed/jetified-exoplayer-common-2.18.5/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.5] /home/rafa/.gradle/caches/transforms-3/b30e6f8a141882bb624a31fcbb9a77cb/transformed/jetified-exoplayer-common-2.18.5/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:9:5-79
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:9:5-79
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:10:5-80
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:10:5-80
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:10:5-80
+MERGED from [com.github.davidliu:audioswitch:c498d866c57f1d88056d5e7e7a78d622e3b0c046] /home/rafa/.gradle/caches/transforms-3/688bcd3840a77a311943c42bbaf20e2b/transformed/jetified-audioswitch-c498d866c57f1d88056d5e7e7a78d622e3b0c046/AndroidManifest.xml:12:5-80
+MERGED from [com.github.davidliu:audioswitch:c498d866c57f1d88056d5e7e7a78d622e3b0c046] /home/rafa/.gradle/caches/transforms-3/688bcd3840a77a311943c42bbaf20e2b/transformed/jetified-audioswitch-c498d866c57f1d88056d5e7e7a78d622e3b0c046/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:10:22-77
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:11:5-77
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:11:5-77
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:11:5-77
+	android:name
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:11:22-74
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:12:5-71
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:12:5-71
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:12:5-71
+MERGED from [:camera_android] /home/rafa/TFG/photopop/build/camera_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-71
+MERGED from [:camera_android] /home/rafa/TFG/photopop/build/camera_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:12:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:13:5-81
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:13:5-81
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:14:5-68
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:14:5-68
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:14:22-65
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:15:5-95
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:15:5-95
+MERGED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:15:5-95
+	android:name
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:15:22-92
+uses-sdk
+INJECTED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml
+MERGED from [:flutter_webrtc] /home/rafa/TFG/photopop/build/flutter_webrtc/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_webrtc] /home/rafa/TFG/photopop/build/flutter_webrtc/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_background] /home/rafa/TFG/photopop/build/flutter_background/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_background] /home/rafa/TFG/photopop/build/flutter_background/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:camera_android] /home/rafa/TFG/photopop/build/camera_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:camera_android] /home/rafa/TFG/photopop/build/camera_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:image_picker_android] /home/rafa/TFG/photopop/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:image_picker_android] /home/rafa/TFG/photopop/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] /home/rafa/TFG/photopop/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] /home/rafa/TFG/photopop/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:integration_test] /home/rafa/TFG/photopop/build/integration_test/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-12:41
+MERGED from [:integration_test] /home/rafa/TFG/photopop/build/integration_test/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-12:41
+MERGED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /home/rafa/TFG/photopop/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /home/rafa/TFG/photopop/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:video_player_android] /home/rafa/TFG/photopop/build/video_player_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:video_player_android] /home/rafa/TFG/photopop/build/video_player_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:webview_flutter_android] /home/rafa/TFG/photopop/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:webview_flutter_android] /home/rafa/TFG/photopop/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [me.carda:androidcore:0.7.7] /home/rafa/.gradle/caches/transforms-3/9c9be3499add27cbb79a7fd2543adb58/transformed/jetified-androidcore-0.7.7/AndroidManifest.xml:5:5-7:41
+MERGED from [me.carda:androidcore:0.7.7] /home/rafa/.gradle/caches/transforms-3/9c9be3499add27cbb79a7fd2543adb58/transformed/jetified-androidcore-0.7.7/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /home/rafa/.gradle/caches/transforms-3/dc3a900d1b2a6113518ce3efdf3a3b41/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /home/rafa/.gradle/caches/transforms-3/dc3a900d1b2a6113518ce3efdf3a3b41/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /home/rafa/.gradle/caches/transforms-3/ea6751acb56b0b88131e2e20244ba024/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /home/rafa/.gradle/caches/transforms-3/ea6751acb56b0b88131e2e20244ba024/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] /home/rafa/.gradle/caches/transforms-3/a6bf228adcf2ade0b45c4be1ab213b75/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/rafa/.gradle/caches/transforms-3/a6bf228adcf2ade0b45c4be1ab213b75/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.1] /home/rafa/.gradle/caches/transforms-3/0f2c34a14d2099fb451b56a233bb2c17/transformed/jetified-activity-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.1] /home/rafa/.gradle/caches/transforms-3/0f2c34a14d2099fb451b56a233bb2c17/transformed/jetified-activity-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/rafa/.gradle/caches/transforms-3/906f41b23948e23cf276f1b1ba5ed41e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/rafa/.gradle/caches/transforms-3/906f41b23948e23cf276f1b1ba5ed41e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/rafa/.gradle/caches/transforms-3/bcc38bd92afe17069579c8062e504b8a/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/rafa/.gradle/caches/transforms-3/bcc38bd92afe17069579c8062e504b8a/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/rafa/.gradle/caches/transforms-3/572d2a7c9eb5efde34d5fcfd36b0f0e3/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/rafa/.gradle/caches/transforms-3/572d2a7c9eb5efde34d5fcfd36b0f0e3/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/rafa/.gradle/caches/transforms-3/246793f755122fe14a5802655438cb75/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/rafa/.gradle/caches/transforms-3/246793f755122fe14a5802655438cb75/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/rafa/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/rafa/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.webrtc-sdk:android:104.5112.06] /home/rafa/.gradle/caches/transforms-3/418f15db3cdb6013fa33705f198cf01a/transformed/jetified-android-104.5112.06/AndroidManifest.xml:13:3-72
+MERGED from [com.github.webrtc-sdk:android:104.5112.06] /home/rafa/.gradle/caches/transforms-3/418f15db3cdb6013fa33705f198cf01a/transformed/jetified-android-104.5112.06/AndroidManifest.xml:13:3-72
+MERGED from [com.github.davidliu:audioswitch:c498d866c57f1d88056d5e7e7a78d622e3b0c046] /home/rafa/.gradle/caches/transforms-3/688bcd3840a77a311943c42bbaf20e2b/transformed/jetified-audioswitch-c498d866c57f1d88056d5e7e7a78d622e3b0c046/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.davidliu:audioswitch:c498d866c57f1d88056d5e7e7a78d622e3b0c046] /home/rafa/.gradle/caches/transforms-3/688bcd3840a77a311943c42bbaf20e2b/transformed/jetified-audioswitch-c498d866c57f1d88056d5e7e7a78d622e3b0c046/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.test:rules:1.2.0] /home/rafa/.gradle/caches/transforms-3/9bf41b629cfc0bc1a29262a5e0c0dcd2/transformed/rules-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:rules:1.2.0] /home/rafa/.gradle/caches/transforms-3/9bf41b629cfc0bc1a29262a5e0c0dcd2/transformed/rules-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] /home/rafa/.gradle/caches/transforms-3/5856d04062f03ff101e4b0bdca3ed148/transformed/espresso-core-3.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] /home/rafa/.gradle/caches/transforms-3/5856d04062f03ff101e4b0bdca3ed148/transformed/espresso-core-3.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] /home/rafa/.gradle/caches/transforms-3/e1d3dce68f91f9c64fdfb367cbb7e7ce/transformed/runner-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] /home/rafa/.gradle/caches/transforms-3/e1d3dce68f91f9c64fdfb367cbb7e7ce/transformed/runner-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.5] /home/rafa/.gradle/caches/transforms-3/3e3beb13dcddec35860e34de722f99cf/transformed/jetified-exoplayer-hls-2.18.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.5] /home/rafa/.gradle/caches/transforms-3/3e3beb13dcddec35860e34de722f99cf/transformed/jetified-exoplayer-hls-2.18.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.5] /home/rafa/.gradle/caches/transforms-3/ab0511d2eaf80fb09f71623758c73931/transformed/jetified-exoplayer-dash-2.18.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.5] /home/rafa/.gradle/caches/transforms-3/ab0511d2eaf80fb09f71623758c73931/transformed/jetified-exoplayer-dash-2.18.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.5] /home/rafa/.gradle/caches/transforms-3/3301dd464b33de561c2fee871ed028d3/transformed/jetified-exoplayer-smoothstreaming-2.18.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.5] /home/rafa/.gradle/caches/transforms-3/3301dd464b33de561c2fee871ed028d3/transformed/jetified-exoplayer-smoothstreaming-2.18.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.5] /home/rafa/.gradle/caches/transforms-3/b8bd4bcbe7320b31658631ac6733d805/transformed/jetified-exoplayer-core-2.18.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.5] /home/rafa/.gradle/caches/transforms-3/b8bd4bcbe7320b31658631ac6733d805/transformed/jetified-exoplayer-core-2.18.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.6.1] /home/rafa/.gradle/caches/transforms-3/d9e74fa448e158ce0221e0cf37d60f72/transformed/webkit-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.6.1] /home/rafa/.gradle/caches/transforms-3/d9e74fa448e158ce0221e0cf37d60f72/transformed/webkit-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.6.0] /home/rafa/.gradle/caches/transforms-3/52c9781f926af24ac4530a9702e17d3a/transformed/media-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] /home/rafa/.gradle/caches/transforms-3/52c9781f926af24ac4530a9702e17d3a/transformed/media-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/rafa/.gradle/caches/transforms-3/2fce982de6bcb65312b126b72c128883/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/rafa/.gradle/caches/transforms-3/2fce982de6bcb65312b126b72c128883/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/rafa/.gradle/caches/transforms-3/eccc6adbfa12474b1575f96a882ac859/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/rafa/.gradle/caches/transforms-3/eccc6adbfa12474b1575f96a882ac859/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/rafa/.gradle/caches/transforms-3/9fc546b4b41c30406c1c6f8de93a0c6d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/rafa/.gradle/caches/transforms-3/9fc546b4b41c30406c1c6f8de93a0c6d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/rafa/.gradle/caches/transforms-3/efb7ecd2cec4a8f801c52ab663aebcf9/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/rafa/.gradle/caches/transforms-3/efb7ecd2cec4a8f801c52ab663aebcf9/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/rafa/.gradle/caches/transforms-3/045d2e69ed718df502093495707de7d0/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/rafa/.gradle/caches/transforms-3/045d2e69ed718df502093495707de7d0/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/rafa/.gradle/caches/transforms-3/eba3ac105ce1a200b5302334a4f79c0c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/rafa/.gradle/caches/transforms-3/eba3ac105ce1a200b5302334a4f79c0c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/rafa/.gradle/caches/transforms-3/86da411e3ef3e48ed679a69941c8410e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/rafa/.gradle/caches/transforms-3/86da411e3ef3e48ed679a69941c8410e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/rafa/.gradle/caches/transforms-3/d411e96186971239cc9320701a4aa95b/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/rafa/.gradle/caches/transforms-3/d411e96186971239cc9320701a4aa95b/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /home/rafa/.gradle/caches/transforms-3/6710ee2e3546b398da00e75003abfc33/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /home/rafa/.gradle/caches/transforms-3/6710ee2e3546b398da00e75003abfc33/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /home/rafa/.gradle/caches/transforms-3/147457b546756dc21ee3f405373305cf/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /home/rafa/.gradle/caches/transforms-3/147457b546756dc21ee3f405373305cf/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.5.1] /home/rafa/.gradle/caches/transforms-3/6e7e5a4af4c1efae44af94640b260dad/transformed/jetified-lifecycle-process-2.5.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.5.1] /home/rafa/.gradle/caches/transforms-3/6e7e5a4af4c1efae44af94640b260dad/transformed/jetified-lifecycle-process-2.5.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/rafa/.gradle/caches/transforms-3/34c3e571c9f2500d68296fe0b8609888/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/rafa/.gradle/caches/transforms-3/34c3e571c9f2500d68296fe0b8609888/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/rafa/.gradle/caches/transforms-3/9a15d0431946b4658756ca271d093b65/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/rafa/.gradle/caches/transforms-3/9a15d0431946b4658756ca271d093b65/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.2.0] /home/rafa/.gradle/caches/transforms-3/d93e6cf6e85545c8757b54674db0aa5c/transformed/monitor-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.2.0] /home/rafa/.gradle/caches/transforms-3/d93e6cf6e85545c8757b54674db0aa5c/transformed/monitor-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.5.1] /home/rafa/.gradle/caches/transforms-3/4035dd197e5e9d829063d9feeb32bc83/transformed/jetified-lifecycle-service-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.5.1] /home/rafa/.gradle/caches/transforms-3/4035dd197e5e9d829063d9feeb32bc83/transformed/jetified-lifecycle-service-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-reactivestreams:2.5.1] /home/rafa/.gradle/caches/transforms-3/e347da2be44723ab375ce23b9fe65a59/transformed/lifecycle-reactivestreams-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-reactivestreams:2.5.1] /home/rafa/.gradle/caches/transforms-3/e347da2be44723ab375ce23b9fe65a59/transformed/lifecycle-reactivestreams-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/rafa/.gradle/caches/transforms-3/801d2797bf7947195fd4f19c4eea4495/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/rafa/.gradle/caches/transforms-3/801d2797bf7947195fd4f19c4eea4495/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/rafa/.gradle/caches/transforms-3/54c2c5e9d4878f1c71319deedb5b4639/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/rafa/.gradle/caches/transforms-3/54c2c5e9d4878f1c71319deedb5b4639/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] /home/rafa/.gradle/caches/transforms-3/3877b37cfe4d7673cce7b93b71042767/transformed/lifecycle-livedata-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] /home/rafa/.gradle/caches/transforms-3/3877b37cfe4d7673cce7b93b71042767/transformed/lifecycle-livedata-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/rafa/.gradle/caches/transforms-3/a9dbf56cdd9bfea41d83101b051211a3/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/rafa/.gradle/caches/transforms-3/a9dbf56cdd9bfea41d83101b051211a3/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /home/rafa/.gradle/caches/transforms-3/3781aa15d0ffa4c9bedd198aebfb95dc/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /home/rafa/.gradle/caches/transforms-3/3781aa15d0ffa4c9bedd198aebfb95dc/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/rafa/.gradle/caches/transforms-3/c6290d38a27dcf8d064fa9cefcb89071/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/rafa/.gradle/caches/transforms-3/c6290d38a27dcf8d064fa9cefcb89071/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.5] /home/rafa/.gradle/caches/transforms-3/8f7e59a440e9ee237d00a84bb541ba0b/transformed/jetified-exoplayer-datasource-2.18.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.5] /home/rafa/.gradle/caches/transforms-3/8f7e59a440e9ee237d00a84bb541ba0b/transformed/jetified-exoplayer-datasource-2.18.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.5] /home/rafa/.gradle/caches/transforms-3/5542e2534cf53ab17f6d0aba7f126261/transformed/jetified-exoplayer-extractor-2.18.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.5] /home/rafa/.gradle/caches/transforms-3/5542e2534cf53ab17f6d0aba7f126261/transformed/jetified-exoplayer-extractor-2.18.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.5] /home/rafa/.gradle/caches/transforms-3/bf4bb4001622d6fc89d42ce4f863c690/transformed/jetified-exoplayer-decoder-2.18.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.5] /home/rafa/.gradle/caches/transforms-3/bf4bb4001622d6fc89d42ce4f863c690/transformed/jetified-exoplayer-decoder-2.18.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.5] /home/rafa/.gradle/caches/transforms-3/8905e007b870999902574b538ee81fe7/transformed/jetified-exoplayer-database-2.18.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.5] /home/rafa/.gradle/caches/transforms-3/8905e007b870999902574b538ee81fe7/transformed/jetified-exoplayer-database-2.18.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.5] /home/rafa/.gradle/caches/transforms-3/b30e6f8a141882bb624a31fcbb9a77cb/transformed/jetified-exoplayer-common-2.18.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.5] /home/rafa/.gradle/caches/transforms-3/b30e6f8a141882bb624a31fcbb9a77cb/transformed/jetified-exoplayer-common-2.18.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/rafa/.gradle/caches/transforms-3/b0ed3bc1190a335fc620be73cef0fa31/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/rafa/.gradle/caches/transforms-3/b0ed3bc1190a335fc620be73cef0fa31/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/rafa/.gradle/caches/transforms-3/33022110ab8edaeede9665dd42ecaa6e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/rafa/.gradle/caches/transforms-3/33022110ab8edaeede9665dd42ecaa6e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/rafa/.gradle/caches/transforms-3/274a6366c1fa82a9cda5f98fe858df07/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/rafa/.gradle/caches/transforms-3/274a6366c1fa82a9cda5f98fe858df07/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/rafa/.gradle/caches/transforms-3/d554ead6601b2f9532bb7762be473019/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/rafa/.gradle/caches/transforms-3/d554ead6601b2f9532bb7762be473019/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /home/rafa/.gradle/caches/transforms-3/b09d00fd9051a37ddc37f5b0281c440c/transformed/espresso-idling-resource-3.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /home/rafa/.gradle/caches/transforms-3/b09d00fd9051a37ddc37f5b0281c440c/transformed/espresso-idling-resource-3.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/rafa/TFG/photopop/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/rafa/TFG/photopop/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rafa/TFG/photopop/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rafa/TFG/photopop/android/app/src/debug/AndroidManifest.xml
+activity#com.example.instafoto.MainActivity
+ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:24:9-45:20
+	android:launchMode
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:27:13-43
+	android:hardwareAccelerated
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:30:13-47
+	android:windowSoftInputMode
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:31:13-55
+	android:exported
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:26:13-36
+	android:configChanges
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:29:13-163
+	android:theme
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:28:13-47
+	android:name
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:25:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:37:13-40:17
+	android:resource
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:39:15-52
+	android:name
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:38:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:41:13-44:29
+action#android.intent.action.MAIN
+ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:42:17-68
+	android:name
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:43:17-76
+	android:name
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:43:27-74
+meta-data#flutterEmbedding
+ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:48:9-50:33
+	android:value
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:50:13-30
+	android:name
+		ADDED from /home/rafa/TFG/photopop/android/app/src/main/AndroidManifest.xml:49:13-44
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker_android] /home/rafa/TFG/photopop/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:image_picker_android] /home/rafa/TFG/photopop/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:image_picker_android] /home/rafa/TFG/photopop/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-74
+	android:exported
+		ADDED from [:image_picker_android] /home/rafa/TFG/photopop/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:image_picker_android] /home/rafa/TFG/photopop/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker_android] /home/rafa/TFG/photopop/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:75
+	android:resource
+		ADDED from [:image_picker_android] /home/rafa/TFG/photopop/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-72
+	android:name
+		ADDED from [:image_picker_android] /home/rafa/TFG/photopop/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-74
+uses-permission#android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS
+ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-89
+	android:name
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-86
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:12:22-63
+receiver#me.carda.awesome_notifications.DartNotificationActionReceiver
+ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-17:39
+	android:exported
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-89
+receiver#me.carda.awesome_notifications.DartDismissedNotificationReceiver
+ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:18:9-20:39
+	android:exported
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-92
+receiver#me.carda.awesome_notifications.DartScheduledNotificationReceiver
+ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:21:9-23:39
+	android:exported
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-92
+receiver#me.carda.awesome_notifications.DartRefreshSchedulesReceiver
+ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:24:9-38:20
+	android:enabled
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-87
+intent-filter#action:name:android.app.action.SCHEDULE_EXACT_ALARM_PERMISSION_STATE_CHANGED+action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.LOCKED_BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON+category:name:android.intent.category.DEFAULT
+ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-37:29
+category#android.intent.category.DEFAULT
+ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:29:27-73
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:31:17-79
+	android:name
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:31:25-76
+action#android.intent.action.LOCKED_BOOT_COMPLETED
+ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:32:17-86
+	android:name
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:32:25-83
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:33:17-84
+	android:name
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:33:25-81
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:34:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:35:25-79
+action#android.app.action.SCHEDULE_EXACT_ALARM_PERMISSION_STATE_CHANGED
+ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:36:17-107
+	android:name
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:36:25-104
+service#me.carda.awesome_notifications.DartBackgroundService
+ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:40:9-43:72
+	android:exported
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:41:13-80
+service#me.carda.awesome_notifications.core.services.ForegroundService
+ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:44:9-49:43
+MERGED from [me.carda:androidcore:0.7.7] /home/rafa/.gradle/caches/transforms-3/9c9be3499add27cbb79a7fd2543adb58/transformed/jetified-androidcore-0.7.7/AndroidManifest.xml:10:9-15:43
+MERGED from [me.carda:androidcore:0.7.7] /home/rafa/.gradle/caches/transforms-3/9c9be3499add27cbb79a7fd2543adb58/transformed/jetified-androidcore-0.7.7/AndroidManifest.xml:10:9-15:43
+	android:enabled
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:47:13-37
+	android:stopWithTask
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:49:13-40
+	android:foregroundServiceType
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:48:13-54
+	android:name
+		ADDED from [:awesome_notifications] /home/rafa/TFG/photopop/build/awesome_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:45:13-90
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /home/rafa/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/rafa/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/rafa/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /home/rafa/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/rafa/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/rafa/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+uses-permission#android.permission.BLUETOOTH
+ADDED from [com.github.davidliu:audioswitch:c498d866c57f1d88056d5e7e7a78d622e3b0c046] /home/rafa/.gradle/caches/transforms-3/688bcd3840a77a311943c42bbaf20e2b/transformed/jetified-audioswitch-c498d866c57f1d88056d5e7e7a78d622e3b0c046/AndroidManifest.xml:9:5-11:38
+	android:maxSdkVersion
+		ADDED from [com.github.davidliu:audioswitch:c498d866c57f1d88056d5e7e7a78d622e3b0c046] /home/rafa/.gradle/caches/transforms-3/688bcd3840a77a311943c42bbaf20e2b/transformed/jetified-audioswitch-c498d866c57f1d88056d5e7e7a78d622e3b0c046/AndroidManifest.xml:11:9-35
+	android:name
+		ADDED from [com.github.davidliu:audioswitch:c498d866c57f1d88056d5e7e7a78d622e3b0c046] /home/rafa/.gradle/caches/transforms-3/688bcd3840a77a311943c42bbaf20e2b/transformed/jetified-audioswitch-c498d866c57f1d88056d5e7e7a78d622e3b0c046/AndroidManifest.xml:10:9-52
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/rafa/.gradle/caches/transforms-3/9fc546b4b41c30406c1c6f8de93a0c6d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.5.1] /home/rafa/.gradle/caches/transforms-3/6e7e5a4af4c1efae44af94640b260dad/transformed/jetified-lifecycle-process-2.5.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.5.1] /home/rafa/.gradle/caches/transforms-3/6e7e5a4af4c1efae44af94640b260dad/transformed/jetified-lifecycle-process-2.5.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/rafa/.gradle/caches/transforms-3/34c3e571c9f2500d68296fe0b8609888/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/rafa/.gradle/caches/transforms-3/34c3e571c9f2500d68296fe0b8609888/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/rafa/.gradle/caches/transforms-3/9fc546b4b41c30406c1c6f8de93a0c6d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/rafa/.gradle/caches/transforms-3/9fc546b4b41c30406c1c6f8de93a0c6d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/rafa/.gradle/caches/transforms-3/9fc546b4b41c30406c1c6f8de93a0c6d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/rafa/.gradle/caches/transforms-3/9fc546b4b41c30406c1c6f8de93a0c6d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/rafa/.gradle/caches/transforms-3/9fc546b4b41c30406c1c6f8de93a0c6d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/rafa/.gradle/caches/transforms-3/9fc546b4b41c30406c1c6f8de93a0c6d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/rafa/.gradle/caches/transforms-3/9fc546b4b41c30406c1c6f8de93a0c6d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/rafa/.gradle/caches/transforms-3/6710ee2e3546b398da00e75003abfc33/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/rafa/.gradle/caches/transforms-3/6710ee2e3546b398da00e75003abfc33/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/rafa/.gradle/caches/transforms-3/6710ee2e3546b398da00e75003abfc33/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.example.instafoto.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/rafa/.gradle/caches/transforms-3/6710ee2e3546b398da00e75003abfc33/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/rafa/.gradle/caches/transforms-3/6710ee2e3546b398da00e75003abfc33/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/rafa/.gradle/caches/transforms-3/6710ee2e3546b398da00e75003abfc33/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/rafa/.gradle/caches/transforms-3/6710ee2e3546b398da00e75003abfc33/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/rafa/.gradle/caches/transforms-3/6710ee2e3546b398da00e75003abfc33/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.instafoto.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/rafa/.gradle/caches/transforms-3/6710ee2e3546b398da00e75003abfc33/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/rafa/.gradle/caches/transforms-3/6710ee2e3546b398da00e75003abfc33/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.5.1] /home/rafa/.gradle/caches/transforms-3/6e7e5a4af4c1efae44af94640b260dad/transformed/jetified-lifecycle-process-2.5.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.5.1] /home/rafa/.gradle/caches/transforms-3/6e7e5a4af4c1efae44af94640b260dad/transformed/jetified-lifecycle-process-2.5.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.5.1] /home/rafa/.gradle/caches/transforms-3/6e7e5a4af4c1efae44af94640b260dad/transformed/jetified-lifecycle-process-2.5.1/AndroidManifest.xml:32:17-78
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /home/rafa/.gradle/caches/transforms-3/e2d62b65ba99af7d59a3315cf4910598/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:22-86
