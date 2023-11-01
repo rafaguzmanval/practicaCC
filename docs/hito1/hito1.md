@@ -13,9 +13,46 @@
 ### HU5: Como moderador quiero tener una lista de todas las publicaciones que han sido denunciadas para poder decidir cuál borrar en caso de no respetar las normas de la comunidad historia de usuario
 
 
-## Creación de archivo .yaml
+## Milestones
 
-    En este archivo se referencia al código ya desarrollado.
+### Sistema de emparejamiento de usuarios
+
+### Cartera online
+
+### Sala virtual 3D
+
+### Sistema de chat
+
+### Capturar fotos y subirlas a la plataforma
+
+### Crear un inicio de sesión seguro
+
+
+
+## Creación de las clases y estructuras de datos iniciales
+
+El servicio de Node.js establecerá una serie de rutas que implementarán un servicio API REST para que todas las peticiones del usuario se operen.
+Desde el front-end se desarrollará una clase para la vista de lo que será cada historia de usuario. 
+
+Aunque existen muchas más clases definidas en este proyecto, voy a enumerar las que resuelven principalmente el problema, a pesar de que existen otras clases que sirven de apoyo.
+
+En camara2.dart se resuelve la HU1
+chat.dart resuelve HU2
+conocer.dart resuelve HU3
+salavirtual.dart resuelve HU4
+home.dart resuelve HU5 cuándo el usuario que ha iniciado sesión tiene privilegios de moderador
+
+[cc.yaml](/cc.yaml)
+```
+entidad:
+  app/frontend/lib/camara2.dart
+  app/frontend/lib/chat.dart
+  app/frontend/lib/conocer.dart
+  app/frontend/lib/salavirtual.dart
+  app/frontend/lib/home.dart
+```
+
     
-    Haz click para acceder
+[Haz click para acceder donde se define la API](/app/backend/app.js)
 
+[Haz click para acceder a todas las clases definidas en el front-end](/app/frontend/lib)
