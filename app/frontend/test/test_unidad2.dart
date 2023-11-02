@@ -82,7 +82,7 @@ void main() {
 
         });
 
-        /*
+        
         test("No se borra la foto con token erróneo", () async {
           var id = jsonDecode(resultadoPublicacion.body)['id'];
 
@@ -108,13 +108,54 @@ void main() {
           expect(res.status, 200);
 
         });
-              */
+              
       });
 
 
+      group("Producto", () {
+        test("Se publica un producto", () async {
 
+          /// Se descarga una imagen de prueba para subirla al servidor
 
+          final response = await http.get(
+              Uri.parse('https://upload.wikimedia.org/' +
+                  'wikipedia/commons/thumb/d/d7/ETSIIT_Universidad_de_Granada.jpg/640px-ETSIIT_Universidad_de_Granada.jpg'));
 
+          String path = "archivoprueba.jpg";
+          File file = await File(path).writeAsBytes(response.bodyBytes);
+
+          NuevaPublicacion nuevaPublicacion = NuevaPublicacion(archivo: file);
+          resultadoPublicacion =
+          await nuevaPublicacion.subirArchivo(context: null,
+              auth: token,
+              usuario: usuario1.nombre,
+              descripcion: "productop",
+              tipo: tipoPublicacion.producto
+              ,
+              precio: "1000",
+              descripcionProducto: "nuevo producto",
+              categoria: "Otros");
+
+          print(resultadoPublicacion.toString());
+          expect(resultadoPublicacion.status, 200);
+
+        });
+
+        test("Se busca el producto", () async {
+          List resultado = await busqueda(patron: "productop",
+              modo: modoBusqueda.productos,
+              categoria: "Otros");
+          // el status de la respuesta es 400 ya que es un error del cliente
+
+          // el segundo elemendo es un json que puede ser iterado como una lista en dart
+          List productos = (resultado[1] as List)
+              .map((e) => e['descripcion'])
+              .toList();
+
+          expect(productos.contains("productop"), true);
+          print("lista de productos devuelta: " + productos.toString());
+        });
+      });
 
 
   });
