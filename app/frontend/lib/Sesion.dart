@@ -26,7 +26,7 @@ enum Status{
 
 class Sesion{
   static const String _ipVPN = "172.26.68.172";
-  static const String _ipLocal = "192.168.0.28";
+  static const String _ipLocal = "localhost";
   static const String _ipUsada = _ipLocal;
   static const String servidor = "https://${_ipUsada}:4000";
   static const String servidorHttp = "http://${_ipUsada}:3000";
