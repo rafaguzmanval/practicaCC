@@ -2,7 +2,7 @@ const sql = require("../bd.js");
 
 function pedirPerfil(req,res){
 
-	var fotoPerfil = __dirname + "/sources/anonimo.png";
+	var fotoPerfil = process.cwd() + "/sources/anonimo.png";
 	var seguidores = [];
 	var usuario = req.params.correo;
 
@@ -19,12 +19,12 @@ function pedirPerfil(req,res){
 			{
 				//console.log(result[0]['foto']);
 				//console.log("fallo");
-				fotoPerfil = __dirname + "/sources/anonimo.png"
+				fotoPerfil = process.cwd() + "/sources/anonimo.png"
 			}
 			else
 			{
 				//console.log(result[0]['foto']);
-				fotoPerfil = __dirname + "/users/"+ usuario +"/perfil.jpg"
+				fotoPerfil = process.cwd() + "/users/"+ usuario +"/perfil.jpg"
 			}
 
 			usuario = result[0]['nombre']

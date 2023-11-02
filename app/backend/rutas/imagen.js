@@ -7,7 +7,7 @@ function pedirImagen(req,res){
 
 	sql.query("SELECT nombre FROM PUBLICACIONES WHERE id=?",[req.params.foto],function(error,qry){
 
-		var path = '/home/rafa/TFG/backendTFG/users/'+req.params.correo+'/galeria/'+qry[0]['nombre'];
+		var path = process.cwd() + '/users/'+req.params.correo+'/galeria/'+qry[0]['nombre'];
 		//res.status(200).sendFile(path);
 		res.status(200).download(path);
 	})

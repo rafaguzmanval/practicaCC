@@ -13,14 +13,14 @@ function pedirFotoperfil(req,res){
 		{
 
 			if(result[0]['foto'] == undefined)
-			{
+			{ 
 				//console.log("foto de perfil no encontrada");
-				res.status(200).sendFile('/home/rafa/TFG/backendTFG/sources/anonimo.png');
+				res.status(200).sendFile(process.cwd() +'/sources/anonimo.png');
 			}
 			else
 			{
 				//console.log(result[0]['foto']);
-				res.status(200).sendFile('/home/rafa/TFG/backendTFG/users/' + req.params.correo +"/perfil.jpg");
+				res.status(200).sendFile(process.cwd() + '/users/' + req.params.correo +"/perfil.jpg");
 			}
 		}
 	})
