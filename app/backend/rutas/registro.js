@@ -96,7 +96,7 @@ function registro(req,res){
                 };
       
       
-                    var dir = "/home/rafa/TFG/backendTFG/users/" + req.body.nombre + "/galeria";
+                    var dir = process.cwd() + "/users/" + req.body.nombre + "/galeria";
       
                     console.log(dir);
                 
