@@ -21,36 +21,32 @@ void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
   HttpOverrides.global = new MyHttpOverrides();
 
-  Usuario usuario1 =
-      new Usuario("Pepe", "clave123", "pepe@mail.com", "882134812");
-
   late RespuestaHTTP resultadoLogIn;
   late RespuestaHTTP resultadoPublicacion;
 
+  Usuario usuario1 =
+      new Usuario("Pepe", "clave123", "pepe@mail.com", "882134812");
+
   String token = "";
-  int idPublicacion;
 
-  group("Registro", () {
-    test("Registro con datos correctos", () async {
-      Registro registro = new Registro(title: "registro");
+  group("Eliminacion de un usuario", () {
+    test("Eliminando al usuario", () async {
+      // Se inicia sesion para obtener el token necesario para poder eliminar la cuenta
+      resultadoLogIn = await Login(
+        title: "login",
+      ).login(context: null, correo: usuario1.correo, clave: usuario1.clave);
 
-      RespuestaHTTP respuestaHttp = await registro.registrar(null,
-          usuario1.nombre, usuario1.clave, usuario1.correo, usuario1.telefono);
+      token = resultadoLogIn.body;
 
-      // el status de la respuesta es 200
-      expect(respuestaHttp.status, 200);
-      print(respuestaHttp.toString());
-    });
+      RespuestaHTTP res = await eliminarCuenta(
+          context: null,
+          usuario: usuario1.nombre,
+          clave: usuario1.clave,
+          token: resultadoLogIn.body);
 
-    test("No se puede volver a registrar con los mismos datos", () async {
-      Registro registro = new Registro(title: "registro");
-
-      RespuestaHTTP respuestaHttp = await registro.registrar(null,
-          usuario1.nombre, usuario1.clave, usuario1.correo, usuario1.telefono);
-
-      // el status de la respuesta es 400 ya que es un error del cliente
-      expect(respuestaHttp.status, 400);
-      print(respuestaHttp.toString());
+      //debe de dar un resultado correcto
+      print("Status: " + res.status.toString());
+      expect(res.status, 200);
     });
 
     test("¿Se puede buscar al nuevo usuario registrado?", () async {
@@ -60,10 +56,7 @@ void main() {
 
       // el segundo elemendo es un json que puede ser iterado como una lista en dart
       List nombres = (resultado[1] as List).map((e) => e['nombre']).toList();
-      expect(nombres.contains(usuario1.nombre), true);
-      print(nombres);
+      expect(nombres.contains(usuario1.nombre), false);
     });
-
-
   });
 }
