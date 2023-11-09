@@ -20,7 +20,7 @@ Cuándo se desarrolló este proyecto solo se llevó a cabo en un entorno local, 
 
 ### :round_pushpin: [Hito 0 Configuración de Github](docs/hito0/hito0.md)
 ### :round_pushpin: [Hito 1 Concretando y planificando el proyecto](docs/hito1/hito1.md)
-### :round_pushpin: [_Hito 2_]()
+### :round_pushpin: [Hito 2 Tests](docs/hito2/hito2.md)
 ### :round_pushpin: [_Hito 3_]()
 ### :round_pushpin: [_Hito 4_]()
 ### :round_pushpin: [_Hito 5_]()
