@@ -12,6 +12,8 @@ En el tercero se elimina al usuario
 
 Por favor, asegurarse de que el makefile se ejecuta desde el directorio donde se encuentra
 
+Este makefile se encuentra dentro de la carpeta [test](../../test/Makefile)
+
 ```makefile
 
 test: INITServer tests KILLserver
