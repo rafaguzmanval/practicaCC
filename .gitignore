@@ -3,3 +3,5 @@ app/backend/node_modules
 app/frontend/build
 app/frontend/ios
 app/backend/conf
+app/frontend/.dart_tool
+app/backend/public/canvaskit
