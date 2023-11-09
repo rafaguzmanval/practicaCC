@@ -10,6 +10,6 @@ En el tercero se elimina al usuario
 
 ## Resultados de los test
 
-[Resultados test](../imgs/test%20pasados.png)
+![Resultados test](../imgs/test%20pasados.png)
 
 
