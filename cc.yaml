@@ -1,3 +1,9 @@
+lenguaje: javascript dart
+fichero_tareas: test/Makefile
+test: app/frontend/test/test_unidad1.dart app/frontend/test/test_unidad2.dart app/frontend/test/test_unidad3.dart
+
+
+
 entidad:
   app/frontend/lib/camara2.dart
   app/frontend/lib/chat.dart
