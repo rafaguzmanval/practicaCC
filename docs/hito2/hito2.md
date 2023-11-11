@@ -8,7 +8,9 @@ En el segundo se prueba a colgar una publicación en la aplicación y un product
 
 En el tercero se elimina al usuario
 
-## Makefile para ejecutar los tests
+Estos test se ejecutan con el entorno de pruebas propio de Flutter usando el comando Flutter test _archivoprueba.dart_
+
+## Gestor de tareas: Makefile para ejecutar los tests
 
 Por favor, asegurarse de que el makefile se ejecuta desde el directorio donde se encuentra
 
