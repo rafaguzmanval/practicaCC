@@ -39,7 +39,7 @@ Una vez que está preparado nuestro contenedor lo ejecutamos para saber si reali
 
 ADVERTENCIA:
 
-Este contenedor ejecuta los tests de la aplicación de flutter, sería necesario que en otra máquina se lanzase el servidor de Node.js para que los tests puedan ejecutarse
+Este contenedor ejecuta los tests de la aplicación de flutter, sería necesario que en otra máquina se lanzase el servidor de Node.js para que los tests puedan ejecutarse ya que es necesaria la conexión a un servidor.
 
 Para ejecutar el docker uso el comando :
 
