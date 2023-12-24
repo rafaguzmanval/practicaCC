@@ -35,7 +35,11 @@ CMD make
 ```
 
 ## Ejecución de los tests
-Una vez que está preparado nuestro contenedor lo ejecutamos para saber si realiza bien el test:
+Una vez que está preparado nuestro contenedor lo ejecutamos para saber si realiza bien el test
+
+ADVERTENCIA:
+
+Este contenedor ejecuta los tests de la aplicación de flutter, sería necesario que en otra máquina se lanzase el servidor de Node.js para que los tests puedan ejecutarse
 
 Para ejecutar el docker uso el comando :
 
