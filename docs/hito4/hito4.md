@@ -38,6 +38,8 @@ pipeline {
 ## Resultado de los tests
 Ejecuto manualmente una build para comprobar que funciona el docker asociado.
 
+![resultados](/docs/imgs/tests.png)
+
 ![resultados](/docs/imgs/resultadosjenkins.png)
 
 
