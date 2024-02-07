@@ -4,9 +4,9 @@ let mysql = require('mysql2');
 
 let connection = mysql.createConnection({
     connectionLimit : 100,
-    host: 'localhost',
-    user: 'instafoto',
-    password: 'claveUser1¿',
+    host: 'db',
+    user: 'root',
+    password: 'example',
     database: 'INSTAFOTO'
 }
 )

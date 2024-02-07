@@ -1,0 +1,24 @@
+services:  
+  db:
+    image: mysql
+    container_name: mysql-db
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: example
+
+  node-backend:
+    image: node:20
+    user: "node"
+    working_dir: /mnt
+    environment:
+      - NODE_ENV=production
+    volumes:
+      - ./app/backend:/mnt
+    ports:
+      - "4000:4000"
+    command: "npm start"
+    restart: on-failure
+    depends_on:
+        db:
+          condition: service_started
+          restart: true
